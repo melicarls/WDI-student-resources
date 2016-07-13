@@ -71,9 +71,8 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-| col 3 is     | right-aligned   | $1600        |
-| col 2 is     | centered        |   $12        |
-| zebra stripes| are neat        |    $1        |
+|Javascript|[JS Debugging Tips](https://raygun.com/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/?utm_source=twitter&utm_content=javascript&UTM_Content=javascript-debugging)|Lesser-known console debugging tools|
+
 
 ## Videos
 
