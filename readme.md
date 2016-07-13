@@ -24,15 +24,21 @@ WDI Student Resources
 ## Reference Materials
 
 | Skill        | Title           | Description  |
-| -----------: |-----------------| -------------|
-| col 3 is     | right-aligned   | $1600        |
-| col 2 is     | centered        |   $12        |
-| zebra stripes| are neat        |    $1        |
+| ----------- |-----------------| -------------|
+|HTML, CSS & JS|[Mozilla Developer Guide](https://developer.mozilla.org/en-US/)|Documentation|
+|Javascript|[Airbnb Style Guide](https://github.com/airbnb/javascript)|Airbnb style guide for Javascript|
+|Javascript|[Eloquent Javascript](https://drive.google.com/file/d/0B82YkbmbDGjzcGZrWmJvWkZSMFk/view)|eBook|
+|Javascript|[Javascript: The Good Parts](https://drive.google.com/file/d/0B82YkbmbDGjzSTg2UFJzZTI5OEk/view)|eBook|
+|Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook|
+|Git|[Pro Git](https://git-scm.com/book/en/v2)|eBook|
+|Ruby on Rails|[The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)|Crowd-sourced style guide for Rails 4|
+|Ruby|[Airbnb Style Guide](https://github.com/airbnb/ruby)|Airbnb style guide for Ruby|
+
 
 ## Browser Programming Tools
 
 | Skill        | Title           | Description  |
-| -----------: |-----------------| -------------|
+| ----------- |-----------------| -------------|
 | col 3 is     | right-aligned   | $1600        |
 | col 2 is     | centered        |   $12        |
 | zebra stripes| are neat        |    $1        |
