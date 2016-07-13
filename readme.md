@@ -47,15 +47,18 @@ WDI Student Resources
 ## Design
 
 | Skill        | Title           | Description  |
-| -----------: |-----------------| -------------|
-| col 3 is     | right-aligned   | $1600        |
-| col 2 is     | centered        |   $12        |
-| zebra stripes| are neat        |    $1        |
+| ----------- |-----------------| -------------|
+|Bootstrap (V4)|[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)|Reference guide|
+|Design|[Font Pair](http://fontpair.co/)|Suggested pairs of complementary fonts|
+|Design|[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)|Chrome Extension that allows you to find the name of a font by hovering on it|
+|Design|[Unsplash](https://unsplash.com/)|Free high-resolution images|
+|Design Inspiration|[Zurb](http://zurb.com/patterntap)|Pretty sites for design inspiration|
+|Mockups & readme.md|[Web Capture](http://web-capture.net/)|Website screenshot capture|
 
 ## Articles
 
 | Skill        | Title           | Description  |
-| -----------: |-----------------| -------------|
+| ----------- |-----------------| -------------|
 | col 3 is     | right-aligned   | $1600        |
 | col 2 is     | centered        |   $12        |
 | zebra stripes| are neat        |    $1        |
@@ -63,7 +66,7 @@ WDI Student Resources
 ## Videos
 
 | Skill        | Title           | Description  |
-| -----------: |-----------------| -------------|
+| ----------- |-----------------| -------------|
 | col 3 is     | right-aligned   | $1600        |
 | col 2 is     | centered        |   $12        |
 | zebra stripes| are neat        |    $1        |
@@ -71,7 +74,7 @@ WDI Student Resources
 ## Podcasts
 
 | Skill        | Title           | Description  |
-| -----------: |-----------------| -------------|
+| ----------- |-----------------| -------------|
 | col 3 is     | right-aligned   | $1600        |
 | col 2 is     | centered        |   $12        |
 | zebra stripes| are neat        |    $1        |
@@ -79,7 +82,7 @@ WDI Student Resources
 ## Blogs
 
 | Skill        | Title           | Description  |
-| -----------: |-----------------| -------------|
+| ----------- |-----------------| -------------|
 | col 3 is     | right-aligned   | $1600        |
 | col 2 is     | centered        |   $12        |
 | zebra stripes| are neat        |    $1        |
