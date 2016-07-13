@@ -11,8 +11,20 @@ WDI Student Resources
 |Javascript, Python, Clojure, Lua, CoffeeScript, Io|[Code Combat](https://codecombat.com/)|Super interactive game that practices basic programming concepts|
 
 
+## Language-Specific Tutorials
+
+| Skill        | Title           | Description  |
+| ----------- |-----------------| -------------|
+|jQuery|[Try jQuery](http://try.jquery.com/)|Exercises w/ links to docs|
+|CSS|[CSS Tricks](https://css-tricks.com/)|CSS tutorials to achieve any look you could imagine|
+|Git|[Learn Git Branching](http://learngitbranching.js.org/)|Interactive tutorial to level-up your git skills|
+|Command Line|[Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial#sec-basics)|Tutorial on need-to-know command line skills|
+
+
+
 ## Algorithms & Coding Challenges
 #### (Non-language specific)
+
 
 | Title                | Description  |
 |----------------------| -------------|
@@ -22,6 +34,7 @@ WDI Student Resources
 | [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/#path=sorting/bubble/basic)|Traces runtime of popular algorithms|
 
 ## Reference Materials
+
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
