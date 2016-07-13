@@ -78,7 +78,7 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-| col 3 is     | right-aligned   | $1600        |
+|Algorithms|[The Secret Rules of Modern Living: Algorithms](https://www.netflix.com/title/80095881?s=i)|Netflix Documentary- membership required|
 | col 2 is     | centered        |   $12        |
 | zebra stripes| are neat        |    $1        |
 
