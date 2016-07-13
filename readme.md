@@ -52,9 +52,8 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-| col 3 is     | right-aligned   | $1600        |
-| col 2 is     | centered        |   $12        |
-| zebra stripes| are neat        |    $1        |
+|RegEx|[Rubular](http://rubular.com/)|Test Ruby RegEx in the browser|
+|Javascript|[CodePen](http://codepen.io/)|Run and save snippets of HTML, CSS, and JS code|
 
 
 ## Design
