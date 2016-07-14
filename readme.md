@@ -9,6 +9,7 @@ WDI Student Resources
 |HTML&CSS, JS, jQuery, PHP, Python, Ruby           |[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs, & challenges|
 |HTML&CSS, JS, Git, Ruby, Python, iOS, Databases   |[Code School](https://www.codeschool.com/)|Some free courses, access to all content requires membership|
 |Javascript, Python, Clojure, Lua, CoffeeScript, Io|[Code Combat](https://codecombat.com/)|Super interactive game that practices basic programming concepts|
+|Javascript, Ruby, Git, CS, Scala, Bash, Rails|[Code Quizzes](https://codecombat.com/)|Language-specific flash cards (great for commutes!)|
 
 
 ## Language-Specific Tutorials
@@ -94,6 +95,7 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-| col 3 is     | right-aligned   | $1600        |
-| col 2 is     | centered        |   $12        |
-| zebra stripes| are neat        |    $1        |
+||[Coding Horror](https://blog.codinghorror.com/)|By Jeff Atwood (Stack Overflow co-founder)|
+||[Scotch.io](https://scotch.io/)|   $12        |
+|Javascript|[David Walsh](https://davidwalsh.name/fix-javascript-errors)|    $1        |
+|Soft Skills|[How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)|    $1        |
