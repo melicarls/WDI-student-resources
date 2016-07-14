@@ -80,8 +80,7 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |Algorithms|[The Secret Rules of Modern Living: Algorithms](https://www.netflix.com/title/80095881?s=i)|Netflix Documentary- membership required|
-| col 2 is     | centered        |   $12        |
-| zebra stripes| are neat        |    $1        |
+
 
 ## Podcasts
 
@@ -95,7 +94,7 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-||[Coding Horror](https://blog.codinghorror.com/)|By Jeff Atwood (Stack Overflow co-founder)|
-||[Scotch.io](https://scotch.io/)|Blog geared towards web developers and designers|
+|General|[Coding Horror](https://blog.codinghorror.com/)|By Jeff Atwood (Stack Overflow co-founder)|
+|General|[Scotch.io](https://scotch.io/)|Blog geared towards web developers and designers|
 |Javascript|[David Walsh](https://davidwalsh.name/fix-javascript-errors)|Front-end development blog by David Walsh of Mozilla|
 |Soft Skills|[How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)|Focus on personal skills, team skills, and judgement|
