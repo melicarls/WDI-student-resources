@@ -65,8 +65,9 @@ WDI Student Resources
 |Design|[Font Pair](http://fontpair.co/)|Suggested pairs of complementary fonts|
 |Design|[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)|Chrome Extension that allows you to find the name of a font by hovering on it|
 |Design|[Unsplash](https://unsplash.com/)|Free high-resolution images|
+|Design|[Color Thief](http://lokeshdhakar.com/projects/color-thief/)|Generates a color palette from an image|
 |Design Inspiration|[Zurb](http://zurb.com/patterntap)|Pretty sites for design inspiration|
-|Mockups & readme.md|[Web Capture](http://web-capture.net/)|Website screenshot capture|
+
 
 ## Articles
 
@@ -98,3 +99,15 @@ WDI Student Resources
 |General|[Scotch.io](https://scotch.io/)|Blog geared towards web developers and designers|
 |Javascript|[David Walsh](https://davidwalsh.name/fix-javascript-errors)|Front-end development blog by David Walsh of Mozilla|
 |Soft Skills|[How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)|Focus on personal skills, team skills, and judgement|
+
+
+## Mockups
+
+| Skill        | Title           | Description  |
+| ----------- |-----------------| -------------|
+|Mockups & readme.md|[Web Capture](http://web-capture.net/)|Website screenshot capture|
+|Mockups|[PlaceIt](https://placeit.net/)|Display your website on common mobile devices|
+|Placeholder Images|[Place Kitten](https://placekitten.com/)|Placeholder images for mockups|
+|Placeholder Images|[Place Corgi](http://placecorgi.com/)|Placeholder images for mockups|
+|Placeholder Images|[Lorem Pizza](http://lorempizza.com/)|Placeholder images for mockups|
+|Placeholder Text|[Awesome Ipsum](https://github.com/templeman/awesome-ipsum)|Links to every ipsum imaginable|
