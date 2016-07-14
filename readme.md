@@ -87,9 +87,9 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-| col 3 is     | right-aligned   | $1600        |
-| col 2 is     | centered        |   $12        |
-| zebra stripes| are neat        |    $1        |
+|General|[Developer Tea](http://spec.fm/podcasts/developer-tea)|Short (5-20 min) talks on best practices & relevant topics|
+|Javascript|[Javascript Jabber](https://devchat.tv/js-jabber)|Weekly conversation about Javascript and front-end development|
+|Ruby|[Ruby Rogues](https://devchat.tv/ruby-rogues)|Panel discussion with members of the Ruby community|
 
 ## Blogs
 
