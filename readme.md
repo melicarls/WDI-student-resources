@@ -96,6 +96,6 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 ||[Coding Horror](https://blog.codinghorror.com/)|By Jeff Atwood (Stack Overflow co-founder)|
-||[Scotch.io](https://scotch.io/)|   $12        |
-|Javascript|[David Walsh](https://davidwalsh.name/fix-javascript-errors)|    $1        |
-|Soft Skills|[How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)|    $1        |
+||[Scotch.io](https://scotch.io/)|Blog geared towards web developers and designers|
+|Javascript|[David Walsh](https://davidwalsh.name/fix-javascript-errors)|Front-end development blog by David Walsh of Mozilla|
+|Soft Skills|[How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)|Focus on personal skills, team skills, and judgement|
