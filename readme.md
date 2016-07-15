@@ -74,9 +74,7 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |Javascript|[JS Debugging Tips](https://raygun.com/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/?utm_source=twitter&utm_content=javascript&UTM_Content=javascript-debugging)|Lesser-known console debugging tools|
-|Mongoose Relationships|[Mongoose Population
-](http://jaketrent.com/post/mongoose-population/
-)|Blog article about the population feature of mongoose|
+|Mongoose Relationships|[Mongoose Population](http://jaketrent.com/post/mongoose-population/)|Blog article about the population feature of mongoose|
 
 
 ## Videos
