@@ -74,6 +74,9 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |Javascript|[JS Debugging Tips](https://raygun.com/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/?utm_source=twitter&utm_content=javascript&UTM_Content=javascript-debugging)|Lesser-known console debugging tools|
+|Mongoose Relationships|[Mongoose Population
+](http://jaketrent.com/post/mongoose-population/
+)|Blog article about the population feature of mongoose|
 
 
 ## Videos
@@ -102,7 +105,7 @@ WDI Student Resources
 |Soft Skills|[How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)|Focus on personal skills, team skills, and judgement|
 
 
-## Mockups
+## Mockup Tools
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
@@ -112,3 +115,5 @@ WDI Student Resources
 |Placeholder Images|[Place Corgi](http://placecorgi.com/)|Placeholder images for mockups|
 |Placeholder Images|[Lorem Pizza](http://lorempizza.com/)|Placeholder images for mockups|
 |Placeholder Text|[Awesome Ipsum](https://github.com/templeman/awesome-ipsum)|Links to every ipsum imaginable|
+|Wireframing|[Balsamiq](https://balsamiq.com/)|Web or desktop app for creating wireframes|
+|Wireframing|[wireframe|cc](https://wireframe.cc/)|Create wireframes in the browser|
