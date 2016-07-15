@@ -116,4 +116,4 @@ WDI Student Resources
 |Placeholder Images|[Lorem Pizza](http://lorempizza.com/)|Placeholder images for mockups|
 |Placeholder Text|[Awesome Ipsum](https://github.com/templeman/awesome-ipsum)|Links to every ipsum imaginable|
 |Wireframing|[Balsamiq](https://balsamiq.com/)|Web or desktop app for creating wireframes|
-|Wireframing|[wireframe|cc](https://wireframe.cc/)|Create wireframes in the browser|
+|Wireframing|[wireframe.cc](https://wireframe.cc/)|Create wireframes in the browser|
