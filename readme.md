@@ -81,6 +81,7 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |Algorithms|[The Secret Rules of Modern Living: Algorithms](https://www.netflix.com/title/80095881?s=i)|Netflix Documentary- membership required|
+|Express.js|[Basic ExpressJS 4.x Tutorial](https://www.youtube.com/playlist?list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8)|Youtube video series on Express.js. Please note that they use server-side Handlebars, which hasn't explicitly discussed in WDI-30
 
 
 ## Podcasts
