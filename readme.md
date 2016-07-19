@@ -33,12 +33,12 @@ WDI Student Resources
 
 | Skills Available                                 | Title           | Description  |
 | ------------------------------------------------ |-----------------| -------------|
-|HTML&CSS, JS, Git, Ruby, Python, iOS, Databases   |[Code School](https://www.codeschool.com/)|Some free courses, access to all content requires membership|
-|HTML&CSS, JS, jQuery, PHP, Python, Ruby           |[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs & challenges|
-|HTML&CSS, JS, Databases, Git, Node, React, D3     |[Free Code Camp](https://www.freecodecamp.com/map)|Readings & coding challenges. Work on projects that benefit nonprofits.|
-|Javascript, Python, Clojure, Lua, CoffeeScript, Io|[Code Combat](https://codecombat.com/)|Super interactive game that practices basic programming concepts|
-|Javascript, Ruby, Git, CS, Scala, Bash, Rails|[Code Quizzes](http://www.codequizzes.com/)|Language-specific flash cards (great for commutes!)|
-
+|HTML, CSS, JS, Git, Ruby & more|[Code School](https://www.codeschool.com/)|Some free courses, access to all content requires membership|
+|HTML, CSS, JS, jQuery, Ruby & more[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs & challenges|
+|HTML, CSS, JS, Git, Node & more|[Free Code Camp](https://www.freecodecamp.com/map)|Readings & coding challenges. Work on projects that benefit nonprofits.|
+|Javascript|[Code Combat](https://codecombat.com/)|Super interactive game that practices basic programming concepts|
+|Javascript, Ruby, Git, CS, Bash, Rails & more|[Code Quizzes](http://www.codequizzes.com/)|Language-specific flash cards (great for commutes!)|
+|Command Line, jQuery, RegEx, Atom & more|[ShortcutFoo](https://www.shortcutfoo.com/)|Practice shortcuts and boost productivity|
 
 ## Language-Specific Tutorials
 
@@ -49,8 +49,8 @@ WDI Student Resources
 |CSS|[CSS Tricks](https://css-tricks.com/)|Articles, CSS tutorials, and code snippets|
 |Ruby on Rails|[Build Instagram in Rails](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/)|Practice CRUD by creating an Instagram look-alike|
 |Git|[Learn Git Branching](http://learngitbranching.js.org/)|Interactive tutorial to level-up your git skills|
+|Git|[Try Git](https://try.github.io/levels/1/challenges/1)|Exercises with links to docs|
 |Command Line|[Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial#sec-basics)|Tutorial on need-to-know command line skills|
-
 
 ## Algorithms and Coding Challenges
 #### (Non-language specific)
@@ -74,11 +74,12 @@ WDI Student Resources
 |Javascript|[Eloquent Javascript](https://drive.google.com/file/d/0B82YkbmbDGjzcGZrWmJvWkZSMFk/view)|eBook by Marijn Haverbeke|
 |Javascript|[Javascript: The Good Parts](https://drive.google.com/file/d/0B82YkbmbDGjzSTg2UFJzZTI5OEk/view)|eBook by Douglas Crockford|
 |Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook by John Resig &g Bear Bibeault|
-|Javascript|[You Might Not Need jQuery](http://youmightnotneedjquery.com/)|Vanilla JS Alternatives|
+|Javascript|[You Might Not Need jQuery](http://youmightnotneedjquery.com/)|Vanilla JS Alternatives to jQuery|
+|Node.js|[The Node Beginner Book](http://www.espritdesel.be/wordpress/wp-content/uploads/2015/01/nodebeginner.pdf)|eBook by Manuel Kiessling|
 |Ruby|[Airbnb Style Guide](https://github.com/airbnb/ruby)|Airbnb style guide for Ruby|
 |Ruby on Rails|[The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)|Crowd-sourced style guide for Rails 4|
-|Python|[How to Think Like a Computer Scientist: Learning with Python](http://www.openbookproject.net/thinkcs/python/english2e/)|eBook by Jeffrey Elkner, Allen B. Downey, and Chris Meyers|
 |Git|[Pro Git](https://git-scm.com/book/en/v2)|eBook by Scott Chacon & Ben Straub |
+|Git|[Practice Git](https://github.com/grayghostvisuals/Practice-Git)|Repo with links to more Git resources|
 |Atom| [Atom Cheat Sheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)|Popular text editor shortcuts|
 |Status Codes|[Status Cats](https://http.cat/)|The definitive resource for HTTP status codes|
 
