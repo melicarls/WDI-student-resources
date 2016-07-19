@@ -34,7 +34,7 @@ WDI Student Resources
 | Skills Available                                 | Title           | Description  |
 | ------------------------------------------------ |-----------------| -------------|
 |HTML, CSS, JS, Git, Ruby & more|[Code School](https://www.codeschool.com/)|Some free courses, access to all content requires membership|
-|HTML, CSS, JS, jQuery, Ruby & more[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs & challenges|
+|HTML, CSS, JS, jQuery, Ruby & more|[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs & challenges|
 |HTML, CSS, JS, Git, Node & more|[Free Code Camp](https://www.freecodecamp.com/map)|Readings & coding challenges. Work on projects that benefit nonprofits.|
 |Javascript|[Code Combat](https://codecombat.com/)|Super interactive game that practices basic programming concepts|
 |Javascript, Ruby, Git, CS, Bash, Rails & more|[Code Quizzes](http://www.codequizzes.com/)|Language-specific flash cards (great for commutes!)|
@@ -74,7 +74,7 @@ WDI Student Resources
 |Javascript|[Eloquent Javascript](https://drive.google.com/file/d/0B82YkbmbDGjzcGZrWmJvWkZSMFk/view)|eBook by Marijn Haverbeke|
 |Javascript|[Javascript: The Good Parts](https://drive.google.com/file/d/0B82YkbmbDGjzSTg2UFJzZTI5OEk/view)|eBook by Douglas Crockford|
 |Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook by John Resig &g Bear Bibeault|
-|Javascript|[You Might Not Need jQuery](http://youmightnotneedjquery.com/)|Vanilla JS Alternatives to jQuery|
+|Javascript|[You Might Not Need jQuery](http://youmightnotneedjquery.com/)|Vanilla JS Alternatives to jQueryg|
 |Node.js|[The Node Beginner Book](http://www.espritdesel.be/wordpress/wp-content/uploads/2015/01/nodebeginner.pdf)|eBook by Manuel Kiessling|
 |Ruby|[Airbnb Style Guide](https://github.com/airbnb/ruby)|Airbnb style guide for Ruby|
 |Ruby on Rails|[The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)|Crowd-sourced style guide for Rails 4|
@@ -105,8 +105,8 @@ WDI Student Resources
 |Design|[Color Thief](http://lokeshdhakar.com/projects/color-thief/)|Generates a color palette from an image|
 |Design Inspiration|[Built with Bootstrap](http://builtwithbootstrap.com/)|Collection of sites that use Bootstrap|
 |Design Inspiration|[Zurb](http://zurb.com/patterntap)|Pretty sites for design inspiration|
-|Color Palette|[Coolors](https://coolors.co/)|Color scheme generator|
-|Color Palette|[Paletton](http://paletton.com/)|Color scheme generator|
+|Color Palettes|[Coolors](https://coolors.co/)|Color scheme generator|
+|Color Palettes|[Paletton](http://paletton.com/)|Color scheme generator|
 
 
 ## Articles
@@ -125,7 +125,7 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |Algorithms|[The Secret Rules of Modern Living: Algorithms](https://www.netflix.com/title/80095881?s=i)|Netflix Documentary- membership required|
-|Express.js|[Basic ExpressJS 4.x Tutorial](https://www.youtube.com/playlist?list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8)|Youtube video series on Express.js. Please note that they use server-side Handlebars, which hasn't explicitly discussed in WDI-30
+|Express.js|[Basic ExpressJS 4.x Tutorial](https://www.youtube.com/playlist?list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8)|Youtube video series on Express.js. Heads up- uses server-side Handlebars|
 |Javascript|[Inheritance in Javascript](https://www.youtube.com/watch?v=yXlFR81tDBM)|Tutorial on Javascript Inheritance|
 
 
