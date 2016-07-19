@@ -3,11 +3,11 @@ WDI Student Resources
 
 ## Contents
 
-[Tutorials & Lessons](#tutorials-&-lessons)
+[Tutorials and Lessons](#tutorials-and-lessons)
 
 [Language-Specific Tutorials](#language-specific-tutorials)
 
-[Algorithms & Coding Challenges](#algorithms-&-coding-challenges)
+[Algorithms and Coding Challenges](#algorithms-and-coding-challenges)
 
 [Reference Materials](#reference-materials)
 
@@ -28,7 +28,7 @@ WDI Student Resources
 [Free Events](#free-events)
 
 
-## Tutorials & Lessons
+## Tutorials and Lessons
 
 
 | Skills Available                                 | Title           | Description  |
@@ -52,7 +52,7 @@ WDI Student Resources
 |Command Line|[Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial#sec-basics)|Tutorial on need-to-know command line skills|
 
 
-## Algorithms & Coding Challenges
+## Algorithms and Coding Challenges
 #### (Non-language specific)
 
 
