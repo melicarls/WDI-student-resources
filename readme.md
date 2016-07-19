@@ -7,7 +7,7 @@ WDI Student Resources
 | Skills Available                                 | Title           | Description  |
 | ------------------------------------------------ |-----------------| -------------|
 |HTML&CSS, JS, Databases, Git, Node, React, D3     |[Free Code Camp](https://www.freecodecamp.com/map)|Readings & coding challenges. Work on projects that benefit nonprofits.|
-|HTML&CSS, JS, jQuery, PHP, Python, Ruby           |[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs, & challenges|
+|HTML&CSS, JS, jQuery, PHP, Python, Ruby           |[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs & challenges|
 |HTML&CSS, JS, Git, Ruby, Python, iOS, Databases   |[Code School](https://www.codeschool.com/)|Some free courses, access to all content requires membership|
 |Javascript, Python, Clojure, Lua, CoffeeScript, Io|[Code Combat](https://codecombat.com/)|Super interactive game that practices basic programming concepts|
 |Javascript, Ruby, Git, CS, Scala, Bash, Rails|[Code Quizzes](https://codecombat.com/)|Language-specific flash cards (great for commutes!)|
@@ -85,7 +85,7 @@ WDI Student Resources
 | ----------- |-----------------| -------------|
 |Javascript|[JS Debugging Tips](https://raygun.com/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/?utm_source=twitter&utm_content=javascript&UTM_Content=javascript-debugging)|Lesser-known console debugging tools|
 |Mongoose Relationships|[Mongoose Population](http://jaketrent.com/post/mongoose-population/)|Blog article about the population feature of mongoose|
-|Job Skills|[Having Success With Code Bootcamps](http://techcrunch.com/2015/12/05/having-success-with-code-bootcamps-hiring-lessons-for-employers/)|How employers can make the most of bootcamp grads|
+|Job Skills|[Having Success With Code Bootcamps](http://techcrunch.com/2015/12/05/having-success-with-code-bootcamps-hiring-lessons-for-employers/)|How employers can make the most of bootcamp grads' unique skillsets|
 |Javascript| [Javascript Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)|Blog entry on Prototypical Inheritance in JS|
 |Javascript| [A Plain English Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)|Blog entry on Prototypical Inheritance in JS|
 
