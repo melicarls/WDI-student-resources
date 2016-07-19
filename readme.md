@@ -2,7 +2,7 @@ WDI Student Resources
 ======
 
 ## Contents
-<a name="tl">Tutorials & Lessons</a>
+[Tutorials & Lessons](#tl)
 Language-Specific Tutorials
 Algorithms & Coding Challenges
 Reference Materials
@@ -15,7 +15,7 @@ Blogs
 Mockup Tools
 Free Events
 
-## [Tutorials & Lessons](#tl)
+## <a name="tl">Tutorials & Lessons</a>
 
 
 | Skills Available                                 | Title           | Description  |
