@@ -60,7 +60,8 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-|RegEx|[Rubular](http://rubular.com/)|Test Ruby RegEx in the browser|
+|RegEx|[Rubular](http://rubular.com/)|Test RegEx in the browser|
+|RegEx|[RegExr](http://regexr.com/)|Test RegEx in the browser (with examples)|
 |Javascript|[CodePen](http://codepen.io/)|Run and save snippets of HTML, CSS, and JS code|
 |HMTL Syntax|[W3C Validator](https://validator.w3.org/)|Check markup validity in the browser|
 
