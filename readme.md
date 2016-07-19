@@ -6,11 +6,11 @@ WDI Student Resources
 
 | Skills Available                                 | Title           | Description  |
 | ------------------------------------------------ |-----------------| -------------|
-|HTML&CSS, JS, Databases, Git, Node, React, D3     |[Free Code Camp](https://www.freecodecamp.com/map)|Readings & coding challenges. Work on projects that benefit nonprofits.|
-|HTML&CSS, JS, jQuery, PHP, Python, Ruby           |[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs & challenges|
 |HTML&CSS, JS, Git, Ruby, Python, iOS, Databases   |[Code School](https://www.codeschool.com/)|Some free courses, access to all content requires membership|
+|HTML&CSS, JS, jQuery, PHP, Python, Ruby           |[Code Academy](https://www.codecademy.com/learn)|Readings, code-alongs & challenges|
+|HTML&CSS, JS, Databases, Git, Node, React, D3     |[Free Code Camp](https://www.freecodecamp.com/map)|Readings & coding challenges. Work on projects that benefit nonprofits.|
 |Javascript, Python, Clojure, Lua, CoffeeScript, Io|[Code Combat](https://codecombat.com/)|Super interactive game that practices basic programming concepts|
-|Javascript, Ruby, Git, CS, Scala, Bash, Rails|[Code Quizzes](https://codecombat.com/)|Language-specific flash cards (great for commutes!)|
+|Javascript, Ruby, Git, CS, Scala, Bash, Rails|[Code Quizzes](http://www.codequizzes.com/)|Language-specific flash cards (great for commutes!)|
 
 
 ## Language-Specific Tutorials
@@ -18,11 +18,11 @@ WDI Student Resources
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-|jQuery|[Try jQuery](http://try.jquery.com/)|Exercises w/ links to docs|
-|CSS|[CSS Tricks](https://css-tricks.com/)|CSS tutorials to achieve any look you could imagine|
+|jQuery|[Try jQuery](http://try.jquery.com/)|Exercises with links to docs|
+|CSS|[CSS Tricks](https://css-tricks.com/)|Articles, CSS tutorials, and code snippets|
+|Ruby on Rails|[Build Instagram in Rails](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/)|Practice CRUD by creating an Instagram look-alike|
 |Git|[Learn Git Branching](http://learngitbranching.js.org/)|Interactive tutorial to level-up your git skills|
 |Command Line|[Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial#sec-basics)|Tutorial on need-to-know command line skills|
-|Ruby on Rails|[Build Instagram in Rails](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/)|Practice CRUD by creating an Instagram look-alike|
 
 
 ## Algorithms & Coding Challenges
@@ -33,6 +33,7 @@ WDI Student Resources
 |----------------------| -------------|
 | [CodeWars](https://www.codewars.com/)|Exercises with tests (TDD)|
 | [CoderByte](https://coderbyte.com/)|Challenges, videos, and TDD exercises|
+| [HackerRank](https://www.hackerrank.com)|Technical recruiting through algorithm practice|
 | [Project Euler](https://projecteuler.net/archives)|Exercises that ask for a computed value|
 | [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/#path=sorting/bubble/basic)|Traces runtime of popular algorithms|
 
@@ -43,9 +44,9 @@ WDI Student Resources
 | ----------- |-----------------| -------------|
 |HTML, CSS & JS|[Mozilla Developer Guide](https://developer.mozilla.org/en-US/)|Documentation|
 |Javascript|[Airbnb Style Guide](https://github.com/airbnb/javascript)|Airbnb style guide for Javascript|
-|Javascript|[Eloquent Javascript](https://drive.google.com/file/d/0B82YkbmbDGjzcGZrWmJvWkZSMFk/view)|eBook|
-|Javascript|[Javascript: The Good Parts](https://drive.google.com/file/d/0B82YkbmbDGjzSTg2UFJzZTI5OEk/view)|eBook|
-|Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook|
+|Javascript|[Eloquent Javascript](https://drive.google.com/file/d/0B82YkbmbDGjzcGZrWmJvWkZSMFk/view)|eBook by Marijn Haverbeke|
+|Javascript|[Javascript: The Good Parts](https://drive.google.com/file/d/0B82YkbmbDGjzSTg2UFJzZTI5OEk/view)|eBook by Douglas Crockford|
+|Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook by John Resig & Bear Bibeault|
 |Javascript|[You Might Not Need jQuery](http://youmightnotneedjquery.com/)|Vanilla JS Alternatives|
 |Ruby|[Airbnb Style Guide](https://github.com/airbnb/ruby)|Airbnb style guide for Ruby|
 |Ruby on Rails|[The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)|Crowd-sourced style guide for Rails 4|
