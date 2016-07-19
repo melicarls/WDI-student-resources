@@ -90,14 +90,14 @@ WDI Student Resources
 |RegEx|[Rubular](http://rubular.com/)|Test RegEx in the browser|
 |RegEx|[RegExr](http://regexr.com/)|Test RegEx in the browser (with examples)|
 |Javascript|[CodePen](http://codepen.io/)|Run and save snippets of HTML, CSS, and JS code|
-|HMTL Syntax|[W3C Validator](https://validator.w3.org/)|Check markup validity in the browser|
+|HTML Syntax|[W3C Validator](https://validator.w3.org/)|Check markup validity in the browser|
 
 ## Design
 
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-|Bootstrap (V4)|[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)|Reference guide|
+|Bootstrap|[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)|Reference guide|
 |Design|[Font Pair](http://fontpair.co/)|Suggested pairs of complementary fonts|
 |Design|[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)|Chrome Extension that allows you to find the name of a font by hovering on it|
 |Design|[Unsplash](https://unsplash.com/)|Free high-resolution images|
@@ -113,10 +113,10 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |Javascript|[JS Debugging Tips](https://raygun.com/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/?utm_source=twitter&utm_content=javascript&UTM_Content=javascript-debugging)|Lesser-known console debugging tools|
-|Mongoose Relationships|[Mongoose Population](http://jaketrent.com/post/mongoose-population/)|Blog article about the population feature of mongoose|
-|Job Skills|[Having Success With Code Bootcamps](http://techcrunch.com/2015/12/05/having-success-with-code-bootcamps-hiring-lessons-for-employers/)|How employers can make the most of bootcamp grads' unique skillsets|
 |Javascript| [Javascript Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)|Blog entry on Prototypical Inheritance in JS|
 |Javascript| [A Plain English Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)|Blog entry on Prototypical Inheritance in JS|
+|Mongoose Relationships|[Mongoose Population](http://jaketrent.com/post/mongoose-population/)|Blog article about the population feature of mongoose|
+|Job Skills|[Having Success With Code Bootcamps](http://techcrunch.com/2015/12/05/having-success-with-code-bootcamps-hiring-lessons-for-employers/)|How employers can make the most of bootcamp grads' unique skillsets|
 
 
 ## Videos
