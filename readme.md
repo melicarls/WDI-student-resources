@@ -2,20 +2,33 @@ WDI Student Resources
 ======
 
 ## Contents
-[Tutorials & Lessons](#tl)
-Language-Specific Tutorials
-Algorithms & Coding Challenges
-Reference Materials
-Browser Programming Tools
-Design
-Articles
-Videos
-Podcasts
-Blogs
-Mockup Tools
-Free Events
 
-## <a name="tl">Tutorials & Lessons</a>
+Tutorials & Lessons
+
+Language-Specific Tutorials
+
+Algorithms & Coding Challenges
+
+Reference Materials
+
+Browser Programming Tools
+
+Design
+
+Articles
+
+[Videos](#videos)
+
+[Podcasts](#podcasts)
+
+[Blogs](#blogs)
+
+[Mockup Tools](#mockup-tools)
+
+[Free Events](#free-events)
+
+
+## Tutorials & Lessons
 
 
 | Skills Available                                 | Title           | Description  |
