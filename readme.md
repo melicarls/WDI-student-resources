@@ -134,9 +134,9 @@ WDI Student Resources
 |Wireframing|[wireframe.cc](https://wireframe.cc/)|Create wireframes in the browser|
 
 
-## Events
+## Free Events
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
-|Javascript|[NodeSchool](http://nodeschool.io//)|Open source & on-site Javascript workshop|
-|Ruby|[BridgeTroll](https://www.bridgetroll.org/)|Open source & on-site Ruby on Rails workshop|
+|Javascript|[NodeSchool](http://nodeschool.io//)|Open source & free on-site Javascript workshop|
+|Ruby|[BridgeTroll](https://www.bridgetroll.org/)|Open source & free on-site Ruby on Rails workshop|
