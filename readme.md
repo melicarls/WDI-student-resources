@@ -3,6 +3,7 @@ WDI Student Resources
 
 ## Tutorials & Lessons
 
+
 | Skills Available                                 | Title           | Description  |
 | ------------------------------------------------ |-----------------| -------------|
 |HTML&CSS, JS, Databases, Git, Node, React, D3     |[Free Code Camp](https://www.freecodecamp.com/map)|Readings & coding challenges. Work on projects that benefit nonprofits.|
@@ -14,13 +15,14 @@ WDI Student Resources
 
 ## Language-Specific Tutorials
 
+
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |jQuery|[Try jQuery](http://try.jquery.com/)|Exercises w/ links to docs|
 |CSS|[CSS Tricks](https://css-tricks.com/)|CSS tutorials to achieve any look you could imagine|
 |Git|[Learn Git Branching](http://learngitbranching.js.org/)|Interactive tutorial to level-up your git skills|
 |Command Line|[Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial#sec-basics)|Tutorial on need-to-know command line skills|
-
+|Ruby on Rails|[Build Instagram in Rails](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/)|Practice CRUD by creating an Instagram look-alike|
 
 
 ## Algorithms & Coding Challenges
@@ -44,10 +46,13 @@ WDI Student Resources
 |Javascript|[Eloquent Javascript](https://drive.google.com/file/d/0B82YkbmbDGjzcGZrWmJvWkZSMFk/view)|eBook|
 |Javascript|[Javascript: The Good Parts](https://drive.google.com/file/d/0B82YkbmbDGjzSTg2UFJzZTI5OEk/view)|eBook|
 |Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook|
-|Git|[Pro Git](https://git-scm.com/book/en/v2)|eBook|
-|Ruby on Rails|[The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)|Crowd-sourced style guide for Rails 4|
-|Ruby|[Airbnb Style Guide](https://github.com/airbnb/ruby)|Airbnb style guide for Ruby|
 |Javascript|[You Might Not Need jQuery](http://youmightnotneedjquery.com/)|Vanilla JS Alternatives|
+|Ruby|[Airbnb Style Guide](https://github.com/airbnb/ruby)|Airbnb style guide for Ruby|
+|Ruby on Rails|[The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)|Crowd-sourced style guide for Rails 4|
+|Python|[How to Think Like a Computer Scientist: Learning with Python](http://www.openbookproject.net/thinkcs/python/english2e/)|eBook by Jeffrey Elkner, Allen B. Downey, and Chris Meyers|
+|Git|[Pro Git](https://git-scm.com/book/en/v2)|eBook|
+|Atom| [Atom Cheat Sheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)|Popular text editor shortcuts|
+|Status Codes|[Status Cats](https://http.cat/)|The definitive resource for HTTP status codes|
 
 ## Browser Programming Tools
 
@@ -59,6 +64,7 @@ WDI Student Resources
 |HMTL Syntax|[W3C Validator](https://validator.w3.org/)|Check markup validity in the browser|
 
 ## Design
+
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
@@ -73,13 +79,15 @@ WDI Student Resources
 |Color Palette|[Paletton](http://paletton.com/)|Color scheme generator|
 
 
-
 ## Articles
 
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |Javascript|[JS Debugging Tips](https://raygun.com/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/?utm_source=twitter&utm_content=javascript&UTM_Content=javascript-debugging)|Lesser-known console debugging tools|
 |Mongoose Relationships|[Mongoose Population](http://jaketrent.com/post/mongoose-population/)|Blog article about the population feature of mongoose|
+|Job Skills|[Having Success With Code Bootcamps](http://techcrunch.com/2015/12/05/having-success-with-code-bootcamps-hiring-lessons-for-employers/)|How employers can make the most of bootcamp grads|
+|Javascript| [Javascript Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)|Blog entry on Prototypical Inheritance in JS|
+|Javascript| [A Plain English Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)|Blog entry on Prototypical Inheritance in JS|
 
 
 ## Videos
@@ -98,6 +106,7 @@ WDI Student Resources
 |General|[Developer Tea](http://spec.fm/podcasts/developer-tea)|Short (5-20 min) talks on best practices & relevant topics|
 |Javascript|[Javascript Jabber](https://devchat.tv/js-jabber)|Weekly conversation about Javascript and front-end development|
 |Ruby|[Ruby Rogues](https://devchat.tv/ruby-rogues)|Panel discussion with members of the Ruby community|
+
 
 ## Blogs
 
