@@ -3,19 +3,19 @@ WDI Student Resources
 
 ## Contents
 
-Tutorials & Lessons
+[Tutorials & Lessons](#tutorials-&-lessons)
 
-Language-Specific Tutorials
+[Language-Specific Tutorials](#language-specific-tutorials)
 
-Algorithms & Coding Challenges
+[Algorithms & Coding Challenges](#algorithms-&-coding-challenges)
 
-Reference Materials
+[Reference Materials](#reference-materials)
 
-Browser Programming Tools
+[Browser Programming Tools](#browser-programming-tools)
 
-Design
+[Design](#design)
 
-Articles
+[Articles](#articlesg)
 
 [Videos](#videos)
 
