@@ -66,7 +66,11 @@ WDI Student Resources
 |Design|[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)|Chrome Extension that allows you to find the name of a font by hovering on it|
 |Design|[Unsplash](https://unsplash.com/)|Free high-resolution images|
 |Design|[Color Thief](http://lokeshdhakar.com/projects/color-thief/)|Generates a color palette from an image|
+|Design Inspiration|[Built with Bootstrap](http://builtwithbootstrap.com/)|Collection of sites that use Bootstrap|
 |Design Inspiration|[Zurb](http://zurb.com/patterntap)|Pretty sites for design inspiration|
+|Color Palette|[Coolors](https://coolors.co/)|Color scheme generator|
+|Color Palette|[Paletton](http://paletton.com/)|Color scheme generator|
+
 
 
 ## Articles
