@@ -46,12 +46,12 @@ WDI Student Resources
 |Javascript|[Airbnb Style Guide](https://github.com/airbnb/javascript)|Airbnb style guide for Javascript|
 |Javascript|[Eloquent Javascript](https://drive.google.com/file/d/0B82YkbmbDGjzcGZrWmJvWkZSMFk/view)|eBook by Marijn Haverbeke|
 |Javascript|[Javascript: The Good Parts](https://drive.google.com/file/d/0B82YkbmbDGjzSTg2UFJzZTI5OEk/view)|eBook by Douglas Crockford|
-|Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook by John Resig & Bear Bibeault|
+|Javascript|[Secrets of the Javascript Ninja](https://drive.google.com/file/d/0B82YkbmbDGjzcks0bVZ5bVBiR0U/view)|eBook by John Resig &g Bear Bibeault|
 |Javascript|[You Might Not Need jQuery](http://youmightnotneedjquery.com/)|Vanilla JS Alternatives|
 |Ruby|[Airbnb Style Guide](https://github.com/airbnb/ruby)|Airbnb style guide for Ruby|
 |Ruby on Rails|[The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)|Crowd-sourced style guide for Rails 4|
 |Python|[How to Think Like a Computer Scientist: Learning with Python](http://www.openbookproject.net/thinkcs/python/english2e/)|eBook by Jeffrey Elkner, Allen B. Downey, and Chris Meyers|
-|Git|[Pro Git](https://git-scm.com/book/en/v2)|eBook|
+|Git|[Pro Git](https://git-scm.com/book/en/v2)|eBook by Scott Chacon & Ben Straub |
 |Atom| [Atom Cheat Sheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)|Popular text editor shortcuts|
 |Status Codes|[Status Cats](https://http.cat/)|The definitive resource for HTTP status codes|
 
