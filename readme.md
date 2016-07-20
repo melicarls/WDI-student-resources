@@ -92,6 +92,7 @@ WDI Student Resources
 |RegEx|[RegExr](http://regexr.com/)|Test RegEx in the browser (with examples)|
 |Javascript|[CodePen](http://codepen.io/)|Run and save snippets of HTML, CSS, and JS code|
 |HTML Syntax|[W3C Validator](https://validator.w3.org/)|Check markup validity in the browser|
+|Browser Support|[CanIUse](http://caniuse.com/)|Browser support tables for front-end technologies|
 
 ## Design
 
@@ -134,9 +135,9 @@ WDI Student Resources
 | Skill        | Title           | Description  |
 | ----------- |-----------------| -------------|
 |General|[Developer Tea](http://spec.fm/podcasts/developer-tea)|Short (5-20 min) talks on best practices & relevant topics|
+|General|[Start Here: Web Development](https://itunes.apple.com/us/podcast/start-here-web-development/id898026456?mt=2)|Podcast for career changers|
 |Javascript|[Javascript Jabber](https://devchat.tv/js-jabber)|Weekly conversation about Javascript and front-end development|
 |Ruby|[Ruby Rogues](https://devchat.tv/ruby-rogues)|Panel discussion with members of the Ruby community|
-
 
 ## Blogs
 
