@@ -15,7 +15,7 @@ WDI Student Resources
 
 [Design](#design)
 
-[Articles](#articlesg)
+[Articles](#articles)
 
 [Videos](#videos)
 
